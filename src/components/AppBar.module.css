@@ -1,0 +1,19 @@
+.navigation {
+  display: flex;
+}
+
+.home {
+  margin-right: 10px;
+}
+
+.userNav {
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.register {
+  margin-right: 10px;
+}

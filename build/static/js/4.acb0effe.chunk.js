@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-18"]=this["webpackJsonpreact-18"]||[]).push([[4],{105:function(e,t,c){"use strict";c.r(t);var s=c(1);t.default=function(){return Object(s.jsx)("h1",{children:"Welcome to the Phonebook's service"})}}}]);
+//# sourceMappingURL=4.acb0effe.chunk.js.map
